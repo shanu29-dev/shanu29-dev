@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**shanu29-dev/shanu29-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# SHANU29
 
-Here are some ideas to get you started:
+### Developer · Creative Thinker · Problem Solver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Where technical curiosity meets creative problem-solving.*
+
+Exploring ideas, writing code, and building practical solutions across software, systems, data, and security.
+
+**Python** · **Linux** · **SQL** · **Cybersecurity**
+
+[Repositories](https://github.com/shanu29-dev?tab=repositories) · [GitHub Profile](https://github.com/shanu29-dev)
+
+</div>
+
+---
+
+### ABOUT
+
+I'm developing my technical skills by turning concepts into working projects and exploring how technology can solve real-world problems. My interests span software development, automation, data, and cybersecurity, with an emphasis on practical learning and thoughtful implementation.
+
+### AREAS OF FOCUS
+
+- **Software Development** — Building applications, scripts, and useful tools with Python.
+- **Systems & Data** — Exploring Linux environments, automation, databases, and SQL.
+- **Cybersecurity** — Learning security fundamentals and developing defensive tools.
+- **Creative Problem-Solving** — Approaching challenges with curiosity, experimentation, and original ideas.
+
+### SELECTED WORK
+A growing portfolio of practical applications, automation tools, data-driven projects, and security experiments.
+Each project is an opportunity to explore an idea, solve a problem, and refine my technical skills.
+
+---
+
+<div align="center">
+
+**Explore → Experiment → Build → Improve**
+
+<sub>Curiosity drives the ideas. Code brings them to life.</sub>
+
+</div>
